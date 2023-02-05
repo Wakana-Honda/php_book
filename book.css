@@ -1,0 +1,21 @@
+body{
+    background-color: #e6eae3;
+}
+
+.book{
+    margin-left: 10px;
+}
+
+.head{
+    background-color: #b5eb8d;
+    width: auto;
+    margin-bottom: 30px;
+}
+
+h1{
+    padding: 10px;
+}
+
+.form-group{
+    margin-bottom: 10px;
+}
